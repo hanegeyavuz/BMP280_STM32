@@ -1,0 +1,5 @@
+../Core/Src/BMP280.c:12:9:I2C_Read_Register	1
+../Core/Src/BMP280.c:26:6:I2C_Write_Register	1
+../Core/Src/BMP280.c:36:6:BMP280_Calibration	1
+../Core/Src/BMP280.c:61:6:BMP280_Init	1
+../Core/Src/BMP280.c:71:6:BMP280_Read_All	3
